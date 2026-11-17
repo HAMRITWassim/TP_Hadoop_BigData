@@ -1,5 +1,7 @@
 # TP2 : Analyse des Accidents de la Route avec PySpark
 
+- **Auteur :** HAMRIT Wassim (5A FISE)
+
 Ce projet présente une analyse de données massives concernant les accidents de la route en Australie-Méridionale entre 2012 et 2019, fournie par le DPTI. L'objectif principal est d'exploiter le framework Apache Spark pour interroger et manipuler ces données en comparant deux approches : l'API RDD (bas niveau) et l'API DataFrame (haut niveau).
 
 ## Données utilisées
