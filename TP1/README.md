@@ -1,5 +1,7 @@
 # TP1 : Analyse des performances de comptage de mots (Word Count)
 
+- **Auteur :** HAMRIT Wassim (5A FISE)
+
 ## Description du projet
 Ce projet a pour objectif d'évaluer et de comparer les temps d'exécution de différentes approches de traitement de données (locales et distribuées) sur un cas d'usage classique : le comptage de mots (Word Count). L'étude illustre les défis du traitement Big Data et l'impact de l'architecture choisie face à l'augmentation du volume de données.
 
